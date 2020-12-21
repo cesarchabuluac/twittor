@@ -11,7 +11,7 @@ const INMUTABLE_CACHE   = 'inmutable-v1';
 
 //Todo lo que se puede modificar
 const APP_SHELL = [
-    '/',
+    // '/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
